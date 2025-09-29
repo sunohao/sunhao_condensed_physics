@@ -1,0 +1,25 @@
+title: Hao Sun
+tagline: Condensed-matter theory · Orbitronics · Moiré quantum materials
+url: https://<your-username>.github.io
+baseurl: "" # for user/org pages keep empty
+author:
+  name: Hao Sun
+  email: your@email
+  orcid: 0000-0000-0000-0000
+
+# Use kramdown/markdown and a clean permalink structure
+markdown: kramdown
+permalink: pretty
+
+# Plugins supported by GitHub Pages by default
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Defaults to auto-apply the layout
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default

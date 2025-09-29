@@ -1,0 +1,5 @@
+scholar:
+  style: ieee
+  locale: en
+  bibliography: _data/pubs.bib
+  bibliography_template: bib
