@@ -1,10 +1,10 @@
 title: Hao Sun
 tagline: Condensed-matter theory · Orbitronics · Moiré quantum materials
-url: https://<your-username>.github.io
-baseurl: "" # for user/org pages keep empty
+url: https://sunohao.github.io
+baseurl: "/sunohao_condensed_physics"
 author:
   name: Hao Sun
-  email: your@email
+  email: sun.hao@nus.edu.sg
   orcid: 0000-0000-0000-0000
 
 # Use kramdown/markdown and a clean permalink structure
