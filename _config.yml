@@ -1,23 +1,20 @@
 title: Hao Sun
-tagline: Condensed-matter theory · Orbitronics · Moiré quantum materials
+tagline: Theoretical physics · Quantum transport · Moiré quantum materials · Quantum science
 url: https://sunohao.github.io
 baseurl: "/sunohao_condensed_physics"
 author:
   name: Hao Sun
-  email: sun.hao@nus.edu.sg
-  orcid: 0000-0000-0000-0000
+  email: sunhao_2007@126.com
+  orcid: 0000-0001-6400-7365
 
-# Use kramdown/markdown and a clean permalink structure
 markdown: kramdown
 permalink: pretty
 
-# Plugins supported by GitHub Pages by default
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
 
-# Defaults to auto-apply the layout
 defaults:
   - scope:
       path: ""
