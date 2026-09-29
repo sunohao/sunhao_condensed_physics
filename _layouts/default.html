@@ -191,11 +191,11 @@ code{background:#eef2ff;padding:2px 6px;border-radius:6px}
     <nav class="nav" aria-label="Main">
       {%- assign here = page.url -%}
       <a href="{{ "/" | relative_url }}" class="{% if here == "/" %}active{% endif %}">Home</a>
-      <a href="{{ "/research/" | relative_url }}" class="{% if here contains "/research" %}active{% endif %}">Research</a>
-      <a href="{{ "/publications/" | relative_url }}" class="{% if here contains "/publications" %}active{% endif %}">Publications</a>
-      <a href="{{ "/code/" | relative_url }}" class="{% if here contains "/code" %}active{% endif %}">Code</a>
-      <a href="{{ "/teaching/" | relative_url }}" class="{% if here contains "/teaching" %}active{% endif %}">Teaching</a>
-      <a href="{{ "/contact/" | relative_url }}" class="{% if here contains "/contact" %}active{% endif %}">Contact</a>
+      <a href="{{ "/research.html" | relative_url }}" class="{% if here contains "/research" %}active{% endif %}">Research</a>
+      <a href="{{ "/publications.html" | relative_url }}" class="{% if here contains "/publications" %}active{% endif %}">Publications</a>
+      <a href="{{ "/code.html" | relative_url }}" class="{% if here contains "/code" %}active{% endif %}">Code</a>
+      <a href="{{ "/teaching.html" | relative_url }}" class="{% if here contains "/teaching" %}active{% endif %}">Teaching</a>
+      <a href="{{ "/contact.html" | relative_url }}" class="{% if here contains "/contact" %}active{% endif %}">Contact</a>
     </nav>
   </div>
 </header>
