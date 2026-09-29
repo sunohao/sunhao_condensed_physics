@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="viewport" content="width=device-width,initial-scale=1">\n  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">\n  <meta http-equiv="Pragma" content="no-cache">\n  <meta http-equiv="Expires" content="0">
   <title>{% if page.title %}{{ page.title }} · {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
   {%- seo -%}
   <link rel="icon" href="{{ "/assets/favicon.svg" | relative_url }}">
@@ -187,15 +187,15 @@ code{background:#eef2ff;padding:2px 6px;border-radius:6px}
 
 <header class="site-header">
   <div class="wrap h-row">
-    <div class="brand"><a href="{{ "/" | relative_url }}">{{ site.title }}</a></div>
+    <div class="brand"><a href="https://sunohao.github.io/sunhao_condensed_physics/">{{ site.title }}</a></div>
     <nav class="nav" aria-label="Main">
       {%- assign here = page.url -%}
-      <a href="{{ "/" | relative_url }}" class="{% if here == "/" %}active{% endif %}">Home</a>
-      <a href="{{ "/research.html" | relative_url }}" class="{% if here contains "/research" %}active{% endif %}">Research</a>
-      <a href="{{ "/publications.html" | relative_url }}" class="{% if here contains "/publications" %}active{% endif %}">Publications</a>
-      <a href="{{ "/code.html" | relative_url }}" class="{% if here contains "/code" %}active{% endif %}">Code</a>
-      <a href="{{ "/teaching.html" | relative_url }}" class="{% if here contains "/teaching" %}active{% endif %}">Teaching</a>
-      <a href="{{ "/contact.html" | relative_url }}" class="{% if here contains "/contact" %}active{% endif %}">Contact</a>
+      <a href="https://sunohao.github.io/sunhao_condensed_physics/" class="{% if here == "/" %}active{% endif %}">Home</a>
+      <a href="https://sunohao.github.io/sunhao_condensed_physics/research.html" class="{% if here contains "/research" %}active{% endif %}">Research</a>
+      <a href="https://sunohao.github.io/sunhao_condensed_physics/publications.html" class="{% if here contains "/publications" %}active{% endif %}">Publications</a>
+      <a href="https://sunohao.github.io/sunhao_condensed_physics/code.html" class="{% if here contains "/code" %}active{% endif %}">Code</a>
+      <a href="https://sunohao.github.io/sunhao_condensed_physics/teaching.html" class="{% if here contains "/teaching" %}active{% endif %}">Teaching</a>
+      <a href="https://sunohao.github.io/sunhao_condensed_physics/contact.html" class="{% if here contains "/contact" %}active{% endif %}">Contact</a>
     </nav>
   </div>
 </header>
