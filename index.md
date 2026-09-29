@@ -4,7 +4,7 @@ title: Home
 
 <section class="hero hero-split">
   <div class="hero-copy">
-    <div class="eyebrow">THEORETICAL PHYSICS · QUANTUM SCIENCE</div>
+    <div class="eyebrow">CONDENSED MATTER · QUANTUM SCIENCE</div>
     <h1>Hao Sun</h1>
     <p class="hero-lead">
       I study quantum transport and quantum materials, with a focus on orbital and valley physics, moiré systems, and quantum geometry.
