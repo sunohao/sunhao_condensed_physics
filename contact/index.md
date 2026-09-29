@@ -1,5 +1,6 @@
 ---
 title: Contact
+permalink: /contact.html
 ---
 
 <p class="muted">Collaboration inquiries in quantum transport, moiré quantum materials, orbital and valley physics, and neutral-atom quantum science are welcome.</p>
