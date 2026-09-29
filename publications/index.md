@@ -2,42 +2,52 @@
 title: Publications
 ---
 
-<p class="muted">Selected publications representing my main research directions. A complete list will be maintained here as the site is updated.</p>
+<p class="muted">Selected publications representing my main research directions. My name is highlighted in bold.</p>
 
 <h2 style="margin-top:18px;">Selected Publications</h2>
 
-<ol style="margin-top:12px; padding-left:18px;">
-  <li class="card pad" style="margin:8px 0">
-    <div class="muted">2025 · Physical Review B 111, L180408</div>
-    <div><strong>Orbital Magnetic Moment Dynamics and Hanle Magnetoresistance in Multilayered 2D Materials</strong></div>
-    <div class="muted">Orbital dynamics, relaxation, and magnetoresistive signatures in layered systems.</div>
-  </li>
+<div class="pub-list">
 
-  <li class="card pad" style="margin:8px 0">
-    <div class="muted">2025 · Physical Review B 111, 075432</div>
-    <div><strong>Nonconserved Density Accumulations in Orbital Hall Transport: Insights from Linear Response Theory</strong></div>
-    <div class="muted">Linear-response treatment of nonconserved observables and boundary accumulation in orbital transport.</div>
-  </li>
+  <article class="card pad pub-item">
+    <div class="pub-year">2025</div>
+    <h3>Orbital magnetic moment dynamics and Hanle magnetoresistance in multilayered two-dimensional materials</h3>
+    <p><strong>Hao Sun</strong> and Giovanni Vignale</p>
+    <p class="muted"><em>Physical Review B</em> <strong>111</strong>, L180408 (2025).</p>
+    <p><a href="https://doi.org/10.1103/PhysRevB.111.L180408" target="_blank" rel="noreferrer">DOI</a></p>
+  </article>
 
-  <li class="card pad" style="margin:8px 0">
-    <div class="muted">2024 · Physical Review Letters 132, 106301</div>
-    <div><strong>Valley-density nonconservation in valley Hall transport</strong></div>
-    <div class="muted">Transport and accumulation when the valley degree of freedom is not strictly conserved.</div>
-  </li>
+  <article class="card pad pub-item">
+    <div class="pub-year">2025</div>
+    <h3>Nonconserved density accumulations in orbital Hall transport: Insights from linear response theory</h3>
+    <p><strong>Hao Sun</strong>, Alexander Kazantsev, Alessandro Principi, and Giovanni Vignale</p>
+    <p class="muted"><em>Physical Review B</em> <strong>111</strong>, 075432 (2025).</p>
+    <p><a href="https://doi.org/10.1103/PhysRevB.111.075432" target="_blank" rel="noreferrer">DOI</a></p>
+  </article>
 
-  <li class="card pad" style="margin:8px 0">
-    <div class="muted">2023 · Nature Communications 14, 2580</div>
-    <div><strong>Second-harmonic generation in strained graphene</strong></div>
-    <div class="muted">Nonlinear optical response enabled by strain-induced symmetry breaking in graphene.</div>
-  </li>
+  <article class="card pad pub-item">
+    <div class="pub-year">2024</div>
+    <h3>Nonconservation of the valley density and its implications for the observation of the valley Hall effect</h3>
+    <p>Alexander Kazantsev, Amelia Mills, Eoin O'Neill, <strong>Hao Sun</strong>, Giovanni Vignale, and Alessandro Principi</p>
+    <p class="muted"><em>Physical Review Letters</em> <strong>132</strong>, 106301 (2024).</p>
+    <p><a href="https://doi.org/10.1103/PhysRevLett.132.106301" target="_blank" rel="noreferrer">DOI</a></p>
+  </article>
 
-  <li class="card pad" style="margin:8px 0">
-    <div class="muted">2021 · Nature Communications 12, 5087</div>
-    <div><strong>Pseudomagnetic-field-modified carrier dynamics in strained graphene</strong></div>
-    <div class="muted">Optical carrier dynamics and relaxation under strong strain-induced pseudomagnetic fields.</div>
-  </li>
-</ol>
+  <article class="card pad pub-item">
+    <div class="pub-year">2023</div>
+    <h3>Strong second-harmonic generation by sublattice polarization in non-uniformly strained monolayer graphene</h3>
+    <p>Kunze Lu, Manlin Luo, Weibo Gao, Qi Jie Wang, <strong>Hao Sun</strong>, and Donguk Nam</p>
+    <p class="muted"><em>Nature Communications</em> <strong>14</strong>, 2580 (2023).</p>
+    <p class="muted">Corresponding author.</p>
+    <p><a href="https://doi.org/10.1038/s41467-023-38344-5" target="_blank" rel="noreferrer">DOI</a></p>
+  </article>
 
-<p class="muted" style="margin-top:16px;">
-  Full bibliographic details, author lists, DOI links, and additional publications will be added in the next update.
-</p>
+  <article class="card pad pub-item">
+    <div class="pub-year">2021</div>
+    <h3>Pseudo-magnetic field-induced slow carrier dynamics in periodically strained graphene</h3>
+    <p>Dong-Ho Kang, <strong>Hao Sun</strong>, Manlin Luo, Kunze Lu, Melvina Chen, Youngmin Kim, Yongduck Jung, Xuejiao Gao, Samuel Jior Parluhutan, Junyu Ge, See Wee Koh, David Giovanni, Tze Chien Sum, Qi Jie Wang, Hong Li, and Donguk Nam</p>
+    <p class="muted"><em>Nature Communications</em> <strong>12</strong>, 5087 (2021).</p>
+    <p class="muted">Equal contribution.</p>
+    <p><a href="https://doi.org/10.1038/s41467-021-25304-0" target="_blank" rel="noreferrer">DOI</a></p>
+  </article>
+
+</div>
