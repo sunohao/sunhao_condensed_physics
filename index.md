@@ -11,9 +11,8 @@ title: Home
     </p>
     <p class="hero-meta">PKU–Longgang Joint Laboratory for Quantum Science</p>
     <p class="cta-row">
-      <a class="btn acc" href="{{ "/research/" | relative_url }}">Research</a>
-      <a class="btn" href="{{ "/publications/" | relative_url }}">Publications</a>
-      <a class="btn" href="{{ "/assets/Hao_Sun_CV.pdf" | relative_url }}">CV</a>
+      <a class="btn acc" href="{{ "/research.html" | relative_url }}">Research</a>
+      <a class="btn" href="{{ "/publications.html" | relative_url }}">Publications</a>
     </p>
   </div>
 
@@ -35,7 +34,7 @@ title: Home
       <div class="eyebrow">RESEARCH</div>
       <h2>Current directions</h2>
     </div>
-    <a href="{{ "/research/" | relative_url }}">View research →</a>
+    <a href="{{ "/research.html" | relative_url }}">View research →</a>
   </div>
 
   <div class="research-grid">
