@@ -1,5 +1,6 @@
 ---
 title: Publications
+permalink: /publications.html
 ---
 
 <section class="page-intro">
