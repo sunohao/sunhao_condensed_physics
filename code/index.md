@@ -1,5 +1,6 @@
 ---
 title: Code
+permalink: /code.html
 ---
 
 <p class="muted">
