@@ -11,8 +11,8 @@ title: Home
     </p>
     <p class="hero-meta">PKU–Longgang Joint Laboratory for Quantum Science</p>
     <p class="cta-row">
-      <a class="btn acc" href="{{ "/research.html" | relative_url }}">Research</a>
-      <a class="btn" href="{{ "/publications.html" | relative_url }}">Publications</a>
+      <a class="btn acc" href="https://sunohao.github.io/sunhao_condensed_physics/research.html">Research</a>
+      <a class="btn" href="https://sunohao.github.io/sunhao_condensed_physics/publications.html">Publications</a>
     </p>
   </div>
 
@@ -34,7 +34,7 @@ title: Home
       <div class="eyebrow">RESEARCH</div>
       <h2>Current directions</h2>
     </div>
-    <a href="{{ "/research.html" | relative_url }}">View research →</a>
+    <a href="https://sunohao.github.io/sunhao_condensed_physics/research.html">View research →</a>
   </div>
 
   <div class="research-grid">
