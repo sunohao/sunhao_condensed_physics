@@ -1,5 +1,6 @@
 ---
 title: Teaching
+permalink: /teaching.html
 ---
 
 <div class="card" style="margin-top:12px; overflow:hidden">
