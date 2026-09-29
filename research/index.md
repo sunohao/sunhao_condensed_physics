@@ -1,5 +1,6 @@
 ---
 title: Research
+permalink: /research.html
 ---
 
 <p class="muted" style="max-width:850px;">
