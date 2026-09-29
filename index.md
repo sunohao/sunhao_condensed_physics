@@ -2,20 +2,31 @@
 title: Home
 ---
 
-<section class="hero">
-  <div class="eyebrow">THEORETICAL PHYSICS · QUANTUM SCIENCE</div>
-  <h1>Hao Sun</h1>
-  <p class="hero-lead">
-    I study quantum transport and quantum materials, with a focus on orbital and valley physics, moiré systems, and quantum geometry.
-  </p>
-  <p class="hero-meta">
-    PKU–Longgang Joint Laboratory for Quantum Science
-  </p>
-  <p class="cta-row">
-    <a class="btn acc" href="{{ "/research/" | relative_url }}">Research</a>
-    <a class="btn" href="{{ "/publications/" | relative_url }}">Publications</a>
-    <a class="btn" href="{{ "/assets/Hao_Sun_CV.pdf" | relative_url }}">CV</a>
-  </p>
+<section class="hero hero-split">
+  <div class="hero-copy">
+    <div class="eyebrow">THEORETICAL PHYSICS · QUANTUM SCIENCE</div>
+    <h1>Hao Sun</h1>
+    <p class="hero-lead">
+      I study quantum transport and quantum materials, with a focus on orbital and valley physics, moiré systems, and quantum geometry.
+    </p>
+    <p class="hero-meta">PKU–Longgang Joint Laboratory for Quantum Science</p>
+    <p class="cta-row">
+      <a class="btn acc" href="{{ "/research/" | relative_url }}">Research</a>
+      <a class="btn" href="{{ "/publications/" | relative_url }}">Publications</a>
+      <a class="btn" href="{{ "/assets/Hao_Sun_CV.pdf" | relative_url }}">CV</a>
+    </p>
+  </div>
+
+  <div class="hero-visual" aria-hidden="true">
+    <div class="moire-grid"></div>
+    <div class="orbit orbit-a"></div>
+    <div class="orbit orbit-b"></div>
+    <div class="orbit orbit-c"></div>
+    <div class="core-dot"></div>
+    <div class="visual-label label-a">orbital</div>
+    <div class="visual-label label-b">moiré</div>
+    <div class="visual-label label-c">geometry</div>
+  </div>
 </section>
 
 <section class="section">
@@ -27,20 +38,27 @@ title: Home
     <a href="{{ "/research/" | relative_url }}">View research →</a>
   </div>
 
-  <div class="grid cols-2">
-    <div class="card pad accent">
+  <div class="research-grid">
+    <div class="card pad research-card research-primary accent">
+      <div class="research-kicker">CORE DIRECTION</div>
       <h3>Orbital and Valley Transport</h3>
       <p class="muted">Generation, dynamics, accumulation, and detection of orbital and valley degrees of freedom in solids.</p>
     </div>
-    <div class="card pad">
+
+    <div class="card pad research-card research-primary">
+      <div class="research-kicker">CORE DIRECTION</div>
       <h3>Moiré and Supermoiré Quantum Materials</h3>
       <p class="muted">Reconstructed bands, magnetic Bloch states, Hofstadter physics, and interaction-driven phases in multiscale two-dimensional systems.</p>
     </div>
-    <div class="card pad">
+
+    <div class="card pad research-card">
+      <div class="research-kicker">CONNECTING THEME</div>
       <h3>Quantum Geometry and Nonequilibrium Responses</h3>
       <p class="muted">Berry curvature, orbital moments, symmetry, and geometric contributions to transport, magnetic, optical, and thermoelectric response.</p>
     </div>
-    <div class="card pad">
+
+    <div class="card pad research-card research-emerging">
+      <div class="research-kicker">EMERGING DIRECTION</div>
       <h3>Atomic Many-Body Physics and Neutral-Atom Quantum Science</h3>
       <p class="muted">High-precision atomic structure, Rydberg interactions, and many-body theory for neutral-atom quantum platforms.</p>
     </div>
