@@ -7,7 +7,7 @@ title: Home
     <div class="eyebrow">CONDENSED MATTER · QUANTUM SCIENCE</div>
     <h1>Hao Sun</h1>
     <p class="hero-lead">
-      I study quantum transport and quantum materials, with a focus on orbital and valley physics, moiré systems, and quantum geometry.
+      I study generalized anomalous transport in quantum materials, with a focus on orbital physics, moiré systems, and quantum spins.
     </p>
     <p class="hero-meta">PKU–Longgang Joint Laboratory for Quantum Science</p>
     <p class="cta-row">
